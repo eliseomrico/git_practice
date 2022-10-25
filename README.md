@@ -3,4 +3,4 @@
 ## This is a first article using Markdown!
 
 
-~~ This is a mistake ~~
+~~This is an example of a mistake~~
